@@ -1,4 +1,4 @@
-# High pass landing
+# Blanchard mail
 A simple email that is fully build in one index.html file.
 It is responsive so that you can view it on any devices comfortably.
 You can even take the structure of it and use it for your own purposes
